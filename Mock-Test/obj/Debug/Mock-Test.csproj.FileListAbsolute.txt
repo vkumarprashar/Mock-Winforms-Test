@@ -1,0 +1,16 @@
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\Mock-Test.exe.config
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\Mock-Test.exe
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\Mock-Test.pdb
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\EntityFramework.dll
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\EntityFramework.xml
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.csproj.AssemblyReference.cache
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock_Test.Form1.resources
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock_Test.Properties.Resources.resources
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.csproj.GenerateResource.cache
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.csproj.CoreCompileInputs.cache
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.csproj.CopyComplete
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.exe
+C:\Users\Sai Ji\source\repos\Mock-Test\Mock-Test\obj\Debug\Mock-Test.pdb
